@@ -1,2 +1,1 @@
-# testc-
-a
+# Newton raphson C++
